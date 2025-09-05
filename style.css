@@ -674,8 +674,8 @@ footer .copyright {
   }
 
   .recent .recent-card {
-    width: 65vw;
-    height: 80vh;
+    width: 80vw;
+    height: 70vh;
     max-width: 320px;
     aspect-ratio: 1 / 1.4142;
   }
