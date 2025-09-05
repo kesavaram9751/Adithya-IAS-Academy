@@ -149,7 +149,7 @@ nav ul li a:hover {
 ========================= */
 .hero {
   height: 400px;
-  background: url(./images/bg-img.jpg) center/cover no-repeat;
+  background: url(./images/bg-img.webp) center/cover no-repeat;
   background-color: #00000070;
   background-blend-mode: multiply;
   color: #fff;
