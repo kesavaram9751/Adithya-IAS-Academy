@@ -679,12 +679,12 @@ footer .copyright {
     max-width: 320px;
     aspect-ratio: 1 / 1.4142;
   }
-
+  
 }
 
 @media (max-width: 500px) {
   .hero {
-  height: auto;
+    height: auto;
   }
   .slide {
     flex: 0 0 80%;   /* show bigger image on small screens */
@@ -692,4 +692,12 @@ footer .copyright {
   .slide img {
     height: 180px;
   }
+}
+@media (max-width: 400px) {
+.recent .recent-card {
+  width: 80vw;
+  height: 85vh;
+  max-width: 320px;
+  aspect-ratio: 1 / 1.4142;
+}
 }
