@@ -675,7 +675,7 @@ footer .copyright {
 
   .recent .recent-card {
     width: 80vw;
-    height: 75vh;
+    height: 70vh;
     max-width: 320px;
     aspect-ratio: 1 / 1.4142;
   }
@@ -692,12 +692,4 @@ footer .copyright {
   .slide img {
     height: 180px;
   }
-}
-@media (max-width: 400px) {
-.recent .recent-card {
-  width: 80vw;
-  height: 70vh;
-  max-width: 320px;
-  aspect-ratio: 1 / 1.4142;
-}
 }
