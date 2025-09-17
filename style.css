@@ -627,6 +627,7 @@ footer .copyright {
   /* When toggled, expand nav */
   header .container #navbtn:checked~nav {
     max-height: 400px;
+     display:flex;
   }
 
   .hero h2 {
