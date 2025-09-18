@@ -687,6 +687,7 @@ footer .copyright {
 
   .logo {
     flex-grow: 1;
+    padding-right: 0px;
   }
 
   .hero h2 {
@@ -726,17 +727,7 @@ footer .copyright {
 
 }
 
-@media (max-width: 375px) {
-  .logo-container {
-    width: 50px;
-    height: 50px;
-  }
 
-  .logo h1 {
-    font-size: var(--font-size-sm);
-    font-weight: var(--fw-bold);
-  }
-}
 
 /* Mobile screens */
 @media (max-width: 600px) {
@@ -766,5 +757,16 @@ footer .copyright {
 
   .slide img {
     height: 180px;
+  }
+}
+@media (max-width: 375px) {
+  .logo-container {
+    width: 60px;
+    height: 60px;
+  }
+
+  .logo h1 {
+    font-size: var(--font-size-md);
+    font-weight: var(--fw-bold);
   }
 }
