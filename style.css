@@ -616,7 +616,7 @@ footer .copyright {
 @media (max-width: 768px) {
 
   header {
-    height: 70px;
+    height: 80px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -766,7 +766,7 @@ footer .copyright {
   }
 
   .logo h1 {
-    font-size: var(--font-size-md);
+    font-size: var(--font-size-lg);
     font-weight: var(--fw-bold);
   }
 }
