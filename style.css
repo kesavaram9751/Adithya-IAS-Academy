@@ -624,8 +624,8 @@ footer .copyright {
     text-align: center;
   }
 
-  /* When toggled, expand nav */
-  header .container #navbtn:checked ~ * nav {
+ /* When toggled, expand nav */
+header .container #navbtn:checked ~ nav {
   max-height: 400px;
 }
 
