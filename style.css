@@ -761,12 +761,12 @@ footer .copyright {
 }
 @media (max-width: 375px) {
   .logo-container {
-    width: 60px;
-    height: 60px;
+    width: 55px;
+    height: 55px;
   }
 
   .logo h1 {
-    font-size: var(--font-size-lg);
+    font-size: 1.7rem;
     font-weight: var(--fw-bold);
   }
 }
